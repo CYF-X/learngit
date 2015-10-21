@@ -4,4 +4,5 @@ git is easy to learn
 git need sometim
 git has a mutable index callse stage
 git add too
-git tracks changes	
+git tracks changes
+git tracks changes of files	
